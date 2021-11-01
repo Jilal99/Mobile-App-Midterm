@@ -2,7 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:midterm/provider/auth_provider.dart';
 import 'package:midterm/screens/home.dart';
-import 'package:midterm/screens/phone_auth.dart';
+import 'package:midterm/provider/phone_auth.dart';
 import 'package:midterm/screens/register.dart';
 import 'package:midterm/screens/reset.dart';
 
